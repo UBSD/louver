@@ -1,0 +1,63 @@
+#+TITLE:     99 bottles of beer on the wall
+#+AUTHOR:    Mogei Wang, and many others
+#+EMAIL:     mogeiwang@gmail.com
+#+DATE:      2016-04-30
+
+#+DESCRIPTION: the page description, e.g. for the XHTML meta tag
+#+KEYWORDS:    the page keywords, e.g. for the XHTML meta tag
+#+LANGUAGE:    en
+#+INFOJS_OPT:  view:showall toc:t ltoc:t mouse:underline path:http://orgmode.org/org-info.js
+#+LINK_HOME:   http://ehneilsen.net/notebook/orgExamples/org-examples.html
+#+TEXT:        Some descriptive text to be inserted at the beginning.
+#+TEXT:        Several lines may be given
+#+HTML_HEAD:   <link rel="stylesheet" type="text/css" href="../css/notebook.css" />
+
+#+OPTIONS: H:2 toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+BEAMER_THEME: Singapore
+#+COLUMNS: %45ITEM %10BEAMER_ENV(Env) %10BEAMER_ACT(Act) %4BEAMER_COL(Col) %8BEAMER_OPT(Opt)
+#+STARTUP: beamer showall
+
+* Outline
+1. ...
+2. ...
+3. ...
+
+* List
+My favorite scenes are (in this order)
+1. The attack of the Rohirrim
+2. Eowyn's fight with the witch king
+    + this was already my favorite scene in the book
+    + I really like Miranda Otto.
+
+Important actors in this film are:
+- Elijah Wood :: He plays Frodo
+- Sean Austin :: He plays Sam, Frodo's friend.
+
+* LaTeX
+Angles are written as Greek letters \alpha, \beta and \gamma. The mass if the sun is M_sun = 1.989 x 10^30 kg. The radius of the sun is R_{sun} = 6.96 x 10^8 m. If $a^2=b$ and $b=2$, then the solution must be either $a=+\sqrt{2}$ or $a=-\sqrt{2}$.
+
+\begin{equation} x=\sqrt{b} \end{equation}
+
+* Table
+#+CAPTION: This is the caption for the next table link (or figure)
+| Name  | Pone | Age |
+|-------+------+-----|
+| Peter | 1234 | 17  |
+| Anna  | 4321 | 25  |
+
+
+* Conclusions
+1. ...
+2. ...
+3. ...
+
+* Main References
+1. ...
+2. ...
+3. ...
+
+* Thank you for your attention!
+
+[[file:./figures/questions.jpg]]
